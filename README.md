@@ -1,8 +1,8 @@
-## Expense Tracker
+# Expense Tracker
 A simple expense tracker built using Python to practice core programming concepts like loops, functions, lists, and input validation.
 This project allows users to record expenses, categorize them, and view spending summaries - all through a clean, menu-driven interface.
 
-# Features
+## Features
 - Add expenses with:
   - Amount
   - Description
